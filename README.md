@@ -5,7 +5,7 @@ Estou em um contínuo processo de aprimoramento para me tornar um profissional d
 
 ## Objetivo 
 
-Minha trajetória na ciência da computação despertou em mim uma paixão pela cibersegurança, e agora estou determinado a direcionar meus esforços para este campo, com o objetivo claro de prestar serviço na área, defendendo redes e dados contra ameaças digitais.
+Minha trajetória na Tecnologia despertou em mim uma paixão pela cibersegurança, e agora estou determinado a direcionar meus esforços para este campo, com o objetivo claro de prestar serviço na área, defendendo redes e dados contra ameaças digitais.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
