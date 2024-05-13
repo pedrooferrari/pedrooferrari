@@ -1,14 +1,11 @@
 # Olá, meu nome é João Pedro Ferrari! 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Estou em um contínuo processo de aprimoramento para me tornar um profissional de cibersegurança, com ênfase em defesa de sistemas e dados. Sou dedicado, apaixonado por desafios, tenho um profundo interesse em tecnologia e estou em constante busca por aprimoramento pessoal e profissional.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## Objetivo 
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Minha trajetória na ciência da computação despertou em mim uma paixão pela cibersegurança, e agora estou determinado a direcionar meus esforços para este campo, com o objetivo claro de prestar serviço na área, defendendo redes e dados contra ameaças digitais.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
