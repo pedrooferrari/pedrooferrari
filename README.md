@@ -1,7 +1,7 @@
 # Olá, meu nome é João Pedro Ferrari! 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Estou em um contínuo processo de aprimoramento para me tornar um profissional de cibersegurança, com ênfase em defesa de sistemas e dados. Sou dedicado, apaixonado por desafios, tenho um profundo interesse em tecnologia e estou em constante busca por aprimoramento pessoal e profissional.
+Estou em um contínuo processo de aprimoramento para me tornar um profissional de cibersegurança. Sou dedicado, apaixonado por desafios, tenho um profundo interesse em tecnologia e estou em constante busca por aprimoramento pessoal e profissional.
 
 ## Objetivo 
 
