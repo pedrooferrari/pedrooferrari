@@ -30,8 +30,13 @@ Possuo estas habilidades e conhecimentos em Tecnologia
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Ferramentas 
-<img src= "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<div>
+
+    <img src= "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+    
+</div>
 
 ### Endpoint
 <div>
