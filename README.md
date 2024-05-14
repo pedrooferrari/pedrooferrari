@@ -10,6 +10,8 @@ Minha trajetória na Tecnologia despertou em mim uma paixão pela ciberseguranç
 ## Habilidades 
 Possuo estas habilidades e conhecimentos em Tecnologia 
 
+<a href="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">MySQL</a>
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Conhecimento em Redes           | <a href="https://github.com/pedrooferrari/Rede-de-Computadores">REDES</a>|
