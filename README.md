@@ -10,7 +10,11 @@ Minha trajetória na Tecnologia despertou em mim uma paixão pela ciberseguranç
 ## Habilidades 
 Possuo estas habilidades e conhecimentos em Tecnologia 
 
-<a href="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">MySQL</a>
+<div>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    
+    
+</div>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
