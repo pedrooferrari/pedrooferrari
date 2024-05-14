@@ -1,8 +1,8 @@
 # Olá, meu nome é João Pedro Ferrari! 
 <div>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/pedroferrari2004/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/jpf.errari/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXDzgtqmbdpZmgpHLqLDKKSMXdRwVTRQCKPrhwSgLstvPpzXZPzgGVxtlSjGKrzwCjNnJ"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     
 </div>
 
