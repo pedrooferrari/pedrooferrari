@@ -8,19 +8,20 @@ Estou em um contínuo processo de aprimoramento para me tornar um profissional d
 Minha trajetória na Tecnologia despertou em mim uma paixão pela cibersegurança, e agora estou determinado a direcionar meus esforços para este campo, com o objetivo claro de prestar serviço na área, defendendo redes e dados contra ameaças digitais.
 
 ## Habilidades 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Possuo estas habilidades e conhecimentos em Tecnologia 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Conhecimento em Redes           | <a href="https://github.com/pedrooferrari/Rede-de-Computadores">REDES</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Python | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Ferramentas 
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Kali Linux 
+
 
 ### Network
 <div>
