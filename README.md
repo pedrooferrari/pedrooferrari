@@ -12,7 +12,7 @@ Minha trajetória na Tecnologia despertou em mim uma paixão pela ciberseguranç
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Conhecimento em Redes           | <a href="https://github.com/pedrooferrari/Rede-de-Computadores">REDES</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
