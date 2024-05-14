@@ -7,7 +7,7 @@ Estou em um contínuo processo de aprimoramento para me tornar um profissional d
 
 Minha trajetória na Tecnologia despertou em mim uma paixão pela cibersegurança, e agora estou determinado a direcionar meus esforços para este campo, com o objetivo claro de prestar serviço na área, defendendo redes e dados contra ameaças digitais.
 
-## Skills
+## Habilidades 
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -19,7 +19,7 @@ Minha trajetória na Tecnologia despertou em mim uma paixão pela ciberseguranç
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Ferramentas 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
@@ -42,7 +42,7 @@ Minha trajetória na Tecnologia despertou em mim uma paixão pela ciberseguranç
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Certificações 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -52,6 +52,6 @@ Minha trajetória na Tecnologia despertou em mim uma paixão pela ciberseguranç
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Projetos 
 - Detection Lab
 - SOC Automation Project
