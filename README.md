@@ -1,5 +1,10 @@
 # Olá, meu nome é João Pedro Ferrari! 
+<div>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    
+</div>
 
 Estou em um contínuo processo de aprimoramento para me tornar um profissional de cibersegurança. Sou dedicado, apaixonado por desafios, tenho um profundo interesse em tecnologia e estou em constante busca por aprimoramento pessoal e profissional.
 
