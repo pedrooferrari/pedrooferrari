@@ -15,6 +15,7 @@ Possuo estas habilidades e conhecimentos em Tecnologia
     <img src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
     <img src= "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
     <img src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     
 </div>
 
@@ -28,8 +29,7 @@ Possuo estas habilidades e conhecimentos em Tecnologia
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Ferramentas 
-Kali Linux 
-
+<img src= "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 ### Network
 <div>
