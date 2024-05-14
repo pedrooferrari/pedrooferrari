@@ -22,7 +22,7 @@ Possuo estas habilidades e conhecimentos em Tecnologia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conhecimento em Redes           | <a href="https://github.com/pedrooferrari/Rede-de-Computadores">REDES</a>|
+| Redes e Seg. de Rede com Packet Tracer          | <a href="https://github.com/pedrooferrari/Rede-de-Computadores">Repositório</a>|
 | Python | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
