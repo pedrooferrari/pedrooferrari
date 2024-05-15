@@ -28,14 +28,31 @@ Possuo estas habilidades e conhecimentos em Tecnologia
     
 </div>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Redes e Seg. de Rede com Packet Tracer          | <a href="https://github.com/pedrooferrari/Rede-de-Computadores">Repositório</a>|
-| Python | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+## Projetos Associados
 
-## Ferramentas 
+### Redes e Segurança de Rede com Packet Tracer
+- **Descrição**: Este projeto demonstra minhas habilidades em redes e segurança de rede utilizando o Cisco Packet Tracer. Inclui a configuração de redes, implementação de protocolos de segurança e simulação de cenários de ataque e defesa.
+- **Repositório**: [Redes e Segurança de Rede](https://github.com/pedrooferrari/Rede-de-Computadores)
+
+### Automação de Segurança com Python
+- **Descrição**: Um projeto focado em automação de segurança utilizando Python. Inclui scripts para análise de logs, detecção de intrusões e resposta a incidentes.
+- **Repositório**: [Automação de Segurança com Python](https://github.com/pedrooferrari/automacao-seguranca-python)
+
+### Sistema de Gerenciamento com PHP e MySQL
+- **Descrição**: Desenvolvimento de um sistema de gerenciamento de usuários utilizando PHP e MySQL. Inclui autenticação de usuários, CRUD (Create, Read, Update, Delete) e implementação de medidas de segurança contra SQL Injection e XSS.
+- **Repositório**: [Sistema de Gerenciamento PHP](https://github.com/pedrooferrari/sistema-gerenciamento-php)
+
+### Aplicação Desktop em C#
+- **Descrição**: Uma aplicação desktop desenvolvida em C# para gerenciamento de inventário. O projeto inclui uma interface gráfica rica, operações de banco de dados e implementação de boas práticas de programação em C#.
+- **Repositório**: [Aplicação Desktop em C#](https://github.com/pedrooferrari/aplicacao-desktop-csharp)
+
+### Scripts de Administração em Linux e Shell Script
+- **Descrição**: Coletânea de scripts em Shell Script para administração de sistemas Linux. Inclui automação de tarefas comuns, como backup, monitoramento de sistema e gerenciamento de usuários.
+- **Repositório**: [Scripts de Administração em Linux](https://github.com/pedrooferrari/scripts-linux)
+
+### Ferramentas de Rede com PowerShell
+- **Descrição**: Scripts em PowerShell para administração de redes Windows. Inclui monitoramento de rede, automação de configurações e análise de logs.
+- **Repositório**: [Ferramentas de Rede com PowerShell](https://github.com/pedrooferrari/ferramentas-powershell)
 <div>
 
 <img src= "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
